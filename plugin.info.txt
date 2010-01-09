@@ -1,0 +1,8 @@
+base    nftr
+author  Michael Haschke
+email   haschek@eye48.com
+date    2009-07-06
+name    NFTR - Not for the Robots!
+desc    Used to hide some namespaces and wikipages from the search engines (set robots to "noindex,follow" and send HTTP header "X-Robots-Tag: noindex") but not from the wiki/user itself (like the built in hidden function works).
+url     http://eye48.com/go/nftr
+
